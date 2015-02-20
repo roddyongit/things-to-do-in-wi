@@ -1,0 +1,54 @@
+/*Github Ribbon Test*/
+/* Source: https://github.com/dciccale/css3-github-ribbon */
+/* Define classes for example, definition, problem etc. */
+/* Choose meaningful colors for background and text */
+
+.example {
+  background-color: #121621;
+  top: 1.2em;
+  right: -3.2em;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-box-shadow: 0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;
+  -moz-box-shadow: 0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;
+  box-shadow: 0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;
+  color: #FF0;
+  display: block;
+  padding: .6em 3.5em;
+  position: absolute;
+  font: bold .82em sans-serif;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 1px -1px 8px rgba(0,0,0,0.60);
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.title-slide {
+     background-image: url(https://images.search.yahoo.com/images/view;_ylt=A0LEVjWHVedU5yIALIEnnIlQ;_ylu=X3oDMTB0N25ndmVnBHNlYwNzYwRjb2xvA2JmMQR2dGlkA1lIUzAwNF8x?p=wisconsin+maps+wisconsin+state&back=https%3A%2F%2Fsearch.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dwisconsin%2Bmaps%2Bwisconsin%2Bstate%26ei%3DUTF-8%26hsimp%3Dyhs-001%26hspart%3Dmozilla&w=750&h=678&imgurl=geology.com%2Fstate-map%2Fmaps%2Fwisconsin-county-map.gif&size=37KB&name=wisconsin-county-map.gif&rcurl=http%3A%2F%2Fgeology.com%2Fstate-map%2Fwisconsin.shtml&rurl=http%3A%2F%2Fgeology.com%2Fstate-map%2Fwisconsin.shtml&type=&no=7&tt=120&oid=d24d633248bb3e7b8ba27371d47793b3&tit=wisconsin+county+map+this+map+shows+wisconsin+s+72+counties+also+...&sigr=11c92tnf4&sigi=11jh815nt&sign=10og1tunk&sigt=103vg5ole&sigb=13ae6icie&fr=yhs-mozilla-001&hspart=mozilla&hsimp=yhs-001);	
+	 }
+
+.definition {
+  background-color: #a00;
+  top: 1.2em;
+  right: -3.2em;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-box-shadow: 0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;
+  -moz-box-shadow: 0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;
+  box-shadow: 0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;
+  color: #FFF;
+  display: block;
+  padding: .6em 3.5em;
+  position: absolute;
+  font: bold .82em sans-serif;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 1px -1px 8px rgba(0,0,0,0.60);
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
